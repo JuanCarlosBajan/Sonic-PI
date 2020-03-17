@@ -1,5 +1,10 @@
 # Welcome to Sonic Pi v3.1
-
+# Las personas que colaboraron en este código fueron:
+# Juan Angel Carrera
+# André Asturias
+# Diego Franco
+# Antonio Durán
+# Juan Carlos Baján
 use_bpm 80
 
 live_loop :kickdrum do
